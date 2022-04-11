@@ -1,0 +1,103 @@
+html{
+    scroll-behavior: auto!important;
+}
+
+/*Body*/
+body{
+    font-family: Helvetica;
+}
+
+/*Navbar*/
+
+.navbar{
+    z-index: 2;
+    background-color: transparent !important;  
+}
+
+.navbar-brand{
+    color: white!important;
+}
+
+.btn-menu
+{
+    color: white!important;
+    font-size: 25px;
+}
+
+.nav-link
+{
+    color: white!important;
+}
+
+/*Inicio*/
+
+#Inicio{
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+
+/*Quiénes somos*/
+
+#Quienes-somos{
+    background-color: black;
+    font-family: 'Oswald';
+    line-height: 2;
+}
+
+#Quienes-somos h1{
+    font-family: 'Oswald';
+    font-weight: bold;
+    font-size: 52px;
+}
+
+
+/*Destacados*/
+#Destacados{
+    background-color: black;
+    font-family: 'Oswald';
+    color: white;
+}
+
+#Destacados h1{
+    font-size: 52px;
+}
+
+.card-body{
+    background-color: #0DCAF0;
+}
+
+/*Contacto*/
+
+#Contacto{
+    font-family: ;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+}
+#Contacto h1{
+    font-family: 'Oswald';
+    font-weight: bold;
+    font-size: 52px;
+}
+
+.btn-info{
+    background-color: #0DCAF0!important;
+    color: white;
+}
+
+/*footer*/
+#footer{
+    background-color: #0DCAF0;
+}
+
+#footer h1{
+    font-family: 'Oswald';
+    font-size: 35px;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
